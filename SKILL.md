@@ -5,7 +5,7 @@ description: Package an existing frontend/backend project into a CodeWave-import
 
 # CodeWave 后端依赖库打包助手
 
-目标是交付一个可直接导入 CodeWave 平台的依赖库压缩包，并让平台页面能展示前端、前端能正常调用 API。
+目标是将源码项目打包成 CodeWave 可使用的依赖库。
 
 ## 执行流程
 
