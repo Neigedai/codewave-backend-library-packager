@@ -1,0 +1,7 @@
+interface:
+  display_name: "CodeWave Library Packager"
+  short_description: "Package projects into CodeWave-importable backend library zips"
+  default_prompt: "Use $codewave-backend-library-packager to package this project into a CodeWave-importable backend dependency library zip."
+
+policy:
+  allow_implicit_invocation: true
