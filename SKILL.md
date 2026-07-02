@@ -31,7 +31,7 @@ description: Package an existing frontend/backend project into a CodeWave-import
 
 如果项目自带 `scripts/package.ps1`，优先使用项目脚本。
 
-## 必读参考
+## 参考资料
 
 读取 [references/park-codewave-reference.md](references/park-codewave-reference.md) 来确认：
 
@@ -41,6 +41,12 @@ description: Package an existing frontend/backend project into a CodeWave-import
 - 打包前检查项
 - zip 验收清单
 - CodeWave 平台导入和页面接入说明
+
+按任务类型继续读取：
+
+- 用户要整理“标准案例”或公开模板时，读取 [references/standard-case-rules.md](references/standard-case-rules.md)。
+- 源码项目结构复杂、需要先做应用结构盘点或 IR 分层时，读取 [references/compiler-layers.md](references/compiler-layers.md)。
+- 打包、导入、发布或运行报错时，读取 [references/troubleshooting.md](references/troubleshooting.md)。
 
 ## 交付标准
 
